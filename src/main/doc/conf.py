@@ -36,7 +36,7 @@ extensions = [
     'sphinx.ext.autosectionlabel',
     #'sphinx-favicon',
     #'sphinxcontrib.youtube',
-    'sphinx_panels',
+  #  'sphinx_panels',
     'myst_parser',
     'sphinxemoji.sphinxemoji',
     'sphinx_last_updated_by_git',
