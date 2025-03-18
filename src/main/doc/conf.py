@@ -81,8 +81,8 @@ html_theme_options = {
     # If True, show hidden TOC entries
     'globaltoc_includehidden': False,
 
- #   'html_minify': True,
-#    'css_minify': True,
+    'html_minify': True,
+    'css_minify': True,
 }
 html_logo = '_static/logo-white.svg'
 html_static_path = ['_static']

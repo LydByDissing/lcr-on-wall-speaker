@@ -7,9 +7,10 @@
 LCR 1
 ###########
 
-This is a simply LCR type speaker, based on a COAX driver from SB Acoustics.
+This is a simple LCR type speaker, based on a COAX driver from SB Acoustics.
 The cabinet are a bass reflex design; which helps to increase the bass response.
 
+.. image:: _static/images/lcr-front.png
 
 .. toctree::
   :caption: Documentation Sections
